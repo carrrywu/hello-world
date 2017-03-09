@@ -8,4 +8,6 @@ OK, no fast forward merge test.
 There's no bugs here.
 
 Branch dev, a branch for developing new features.
+
 May somebody else modify this file at the same time?
+This line is added by anothoer account.
