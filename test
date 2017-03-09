@@ -6,4 +6,8 @@ I don't know anything about the new feature.
 OK, no fast forward merge test.
 
 There's no bugs here.
-This line is added on Github website.
+
+Branch dev, a branch for developing new features.
+
+May somebody else modify this file at the same time?
+This line is added by anothoer account.
